@@ -9,7 +9,6 @@ use Laravel\Socialite\Facades\Socialite;
 use App\User;
 use Illuminate\Support\Str;
 use Illuminate\Support\Facades\Hash;
-
 class LoginController extends Controller
 {
     /*

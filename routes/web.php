@@ -27,9 +27,6 @@ Route::post('/', 'ImportController@import')->name('import');
 Route::get('/export', 'ExportController@export')->name('export');
 Route::get('/download', 'ExportController@download')->name('download');
 
-///////////////////////////////////////////////////////////////
-
-//Route::get('test-contract', 'MainController@call');
 
 
 
