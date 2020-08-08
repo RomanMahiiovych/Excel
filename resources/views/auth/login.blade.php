@@ -64,6 +64,10 @@
                                 @endif
                             </div>
                         </div>
+                        <br/>
+                        <div class="form-group row mb-0">
+                            <a href="{{ route('github') }}" class="btn btn-primary btn-block">Sign In With Github</a>
+                        </div>
                     </form>
                 </div>
             </div>
